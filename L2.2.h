@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-typedef int bool;
 #define true 1
 #define false 0
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
